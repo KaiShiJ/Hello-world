@@ -17,7 +17,7 @@ Hello World
 - GIT
 - HTML，CSS等前端知识
 
-> Blockquote
 
-学海无涯，许多知识还只是入门。
+
+#### 学海无涯，许多知识还只是入门。
 ## Stay hunger，Stay foolish.
